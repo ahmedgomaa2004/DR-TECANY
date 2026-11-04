@@ -1,0 +1,6 @@
+# Ignore local agent skill folders
+.agents/
+.claude/
+.gemini/
+.DS_Store
+Thumbs.db
